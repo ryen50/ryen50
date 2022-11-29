@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 在校大学生，随手练习
 
 <!--
 **ryen50/ryen50** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
